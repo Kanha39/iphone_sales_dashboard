@@ -31,9 +31,3 @@ iphone-sales-dashboard/
 ## 📓 Kaggle Notebook
 EDA and analysis notebook available on Kaggle:
 👉 [View on Kaggle](https://www.kaggle.com/code/kanha001/notebook39a6b2c4c3)
-
-## 👤 Author
-Kanha Pandey
-- GitHub: [@kanhapandey](https://github.com/kanhapandey)
-- Kaggle: [kanha001](https://www.kaggle.com/kanha001)
-👉 [View on Kaggle]([your-kaggle-notebook-link-here](https://www.kaggle.com/code/kanha001/notebook39a6b2c4c3))
