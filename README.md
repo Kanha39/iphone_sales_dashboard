@@ -1,10 +1,33 @@
-## iPhone Sales Analytics Dashboard
+# 📱 iPhone Sales Analytics Dashboard
 
-An interactive sales dashboard built with Python, Pandas, Plotly and Streamlit.
+An interactive data dashboard analyzing global iPhone sales trends 
+across models, countries, storage sizes and payment methods.
 
-**Live app:** [Click here](https://iphonesalesdashboard.streamlit.app/)
+## 🚀 Live Demo
+👉 [Click here to view the dashboard]([your-streamlit-link-here](https://iphonesalesdashboard.streamlit.app/))
 
-### Features
+## 📊 Dashboard Features
 - Filter by iPhone model, country, and year
+- Total units sold, revenue, and average price KPIs
 - Revenue trend over time
-- Sales breakdown by country, storage, and payment method
+- Sales breakdown by country
+- Sales by storage size
+- Sales by payment method
+
+## 🛠️ Built With
+- Python
+- Pandas — data loading and analysis
+- Plotly — interactive charts
+- Streamlit — dashboard framework
+
+## 📁 Project Structure
+iphone-sales-dashboard/
+├── data/                  <- dataset
+├── notebooks/             <- EDA jupyter notebook
+├── app.py                 <- Streamlit dashboard
+├── requirements.txt       <- dependencies
+└── README.md
+
+## 📓 Kaggle Notebook
+EDA and analysis notebook available on Kaggle:
+👉 [View on Kaggle]([your-kaggle-notebook-link-here](https://www.kaggle.com/code/kanha001/notebook39a6b2c4c3))
