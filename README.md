@@ -4,7 +4,7 @@ An interactive data dashboard analyzing global iPhone sales trends
 across models, countries, storage sizes and payment methods.
 
 ## 🚀 Live Demo
-👉 [Click here to view the dashboard]((https://iphonesalesdashboard.streamlit.app/))
+👉 [Click here to view the dashboard]([https://iphonesalesdashboard.streamlit.app/])
 
 ## 📊 Dashboard Features
 - Filter by iPhone model, country, and year
